@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Djnago 
 - 💞️ I’m looking to collaborate on Djnago and IoT projects
 - 📫 How to reach me god knows :)
-- 
